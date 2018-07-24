@@ -11,4 +11,5 @@ def first_steps
       stop #{x}
     sleep(1)
 end
+end
 first_steps
