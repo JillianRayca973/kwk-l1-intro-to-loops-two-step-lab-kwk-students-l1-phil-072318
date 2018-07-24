@@ -10,6 +10,6 @@ def first_steps
       puts "Right foot back"
       stop #{x}
     sleep(1)
-end
+    break
 end
 first_steps
