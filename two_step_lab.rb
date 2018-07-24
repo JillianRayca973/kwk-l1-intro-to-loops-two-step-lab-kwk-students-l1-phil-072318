@@ -2,7 +2,7 @@ def first_steps
   x=2
   loop do
       puts "Right foot back"
-      puts "stop #{x]
+      puts "stop #{x]"
     sleep(1)
       puts "Left foot back"
       puts "stop #{x}"
@@ -10,6 +10,5 @@ def first_steps
       puts "Right foot back"
       puts "stop #{x}"
     sleep(1)
-  end
 end
 first_steps
