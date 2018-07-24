@@ -12,4 +12,3 @@ def first_steps
     sleep(1)
     break
 end
-first_steps
